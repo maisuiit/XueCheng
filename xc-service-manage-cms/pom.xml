@@ -9,7 +9,7 @@
         <relativePath>../xc-framework-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <!--你好-->
     <artifactId>xc-service-manage-cms</artifactId>
     <dependencies>
         <dependency>
